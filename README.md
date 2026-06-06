@@ -33,3 +33,8 @@ Before running the pipeline, ensure your source media files are placed in the co
 1. Install required dependencies:
    ```bash
    npm install
+   ```
+2. Run
+   ```bash
+   npm run dev
+   ```
