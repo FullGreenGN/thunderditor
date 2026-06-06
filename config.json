@@ -1,0 +1,145 @@
+{
+  "clips": [
+    {
+      "file": "IMG_5246.MOV",
+      "duration": 3.0
+    },
+    {
+      "file": "IMG_5304.MOV",
+      "duration": 3.5
+    },
+    {
+      "file": "IMG_5518.MOV",
+      "duration": 5.5
+    },
+    {
+      "file": "IMG_5668.MOV",
+      "duration": 5.5
+    },
+    {
+      "file": "IMG_9785.MOV",
+      "duration": 5.5
+    },
+    {
+      "file": "3C2630A6-2978-444B-B1A7-EC9E63E120DC.mp4",
+      "duration": 4.0
+    },
+    {
+      "file": "DJI_20250329_151358_786_video.mp4",
+      "duration": 4.5
+    },
+    {
+      "file": "IMG_9289.MOV",
+      "duration": 5.0
+    },
+    {
+      "file": "IMG_8311.MOV",
+      "duration": 4.8
+    },
+    {
+      "file": "IMG_6234.MOV",
+      "duration": 3.5
+    },
+    {
+      "file": "IMG_7871.MOV",
+      "duration": 10.0
+    }
+  ],
+  "audio": {
+    "file": "assets/audio/ma_musique.mp3",
+    "cutStart": 145
+  },
+  "outputs": {
+    "baseVideo": "out/tiktok_final.mp4",
+    "audioVideo": "out/tiktok_avec_son.mp4",
+    "finalVideo": "out/tiktok_final_lyrics.mp4",
+    "tempSubtitle": "temp_lyrics.srt"
+  },
+  "effects": {
+    "dropStart": 44.5,
+    "dropDuration": 2.0,
+    "shakeIntensity": 0
+  },
+  "lyrics": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "I found a love, but it didn't last"
+    },
+    {
+      "start": 2.5,
+      "end": 5.5,
+      "text": "Wonderful days belong to the past"
+    },
+    {
+      "start": 5.5,
+      "end": 8.5,
+      "text": "I don't know where I stand, what I'm to do"
+    },
+    {
+      "start": 8.5,
+      "end": 11.5,
+      "text": "Tried to forget and I found someone new"
+    },
+    {
+      "start": 11.5,
+      "end": 14.0,
+      "text": "So I pray on my knees to heaven above"
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Send me somebody please, someone to love"
+    },
+    {
+      "start": 17.0,
+      "end": 19.5,
+      "text": "Come into my story, give me your hand"
+    },
+    {
+      "start": 19.5,
+      "end": 23.0,
+      "text": "Don't let me down, for I'm a helpless man"
+    },
+    {
+      "start": 23.0,
+      "end": 25.5,
+      "text": "I found a love, but it didn't last"
+    },
+    {
+      "start": 25.5,
+      "end": 28.5,
+      "text": "Wonderful days belong to the past"
+    },
+    {
+      "start": 28.5,
+      "end": 31.0,
+      "text": "I don't know where I stand, what I'm to do"
+    },
+    {
+      "start": 31.0,
+      "end": 34.0,
+      "text": "Tried to forget and I found someone new"
+    },
+    {
+      "start": 34.0,
+      "end": 36.5,
+      "text": "So I pray on my knees to heaven above"
+    },
+    {
+      "start": 36.5,
+      "end": 39.5,
+      "text": "Send me somebody please, someone to love"
+    },
+    {
+      "start": 39.5,
+      "end": 41.5,
+      "text": "Come into my story, give me your hand"
+    },
+    {
+      "start": 41.5,
+      "end": 44.5,
+      "text": "{\\fad(0,1000)}Don't let me down, with a heart to be damned"
+    }
+  ]
+}

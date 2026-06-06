@@ -1,0 +1,21 @@
+node_modules/
+.DS_Store
+
+# Outputs
+out/
+
+# Temp files
+temp_*.mp4
+temp_lyrics.srt
+concat_list.txt
+
+# Media Assets (Optional: remove these lines if you want to track them)
+assets/video/
+assets/audio/
+assets/images/
+*.mp4
+*.MOV
+*.mp3
+*.JPG
+*.jpeg
+*.png
